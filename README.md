@@ -1,5 +1,6 @@
 # Animação Monstrinho 🧟‍♂️
-![Animação Monstrinho](https://github.com/herixcx/animacao-monstrinho/assets/162808394/062b9c59-0d5a-4fc5-8d58-04b4e6bf662b)
+![Animação Monstrinho](https://github.com/herixcx/animacao-monstrinho/assets/162808394/dc1005c0-1482-4d99-a828-f2833805faa4)
+
 
 
 Projeto de uma animação em CSS desenvolvido para a aula de Des. Web I, do curso de DSM (FATEC-Franca) para exercitar o aprendizado e as técnicas em CSS avançado. Animção simples toda em CSS de um monstrinho acenando com a mão.
